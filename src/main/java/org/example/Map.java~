@@ -1,0 +1,10 @@
+package org.example;
+
+public class Map {
+
+  public static void main(String[] args) {
+    Map<Integer, String> mapList = Map.of()
+  }
+
+
+}
